@@ -1,2 +1,2 @@
-# Python_practise
-I'm ready to show, how to build-up Python skill from beginner to master
+# Introduction to Python
+Python is a popular, easy-to-learn, and very powerful programming language, which is used in software and web development, data science, machine learning, and many other fields. In this course, we’ll cover the basic concepts of Python, as well as build real-life projects and solve different coding challenges. Python for Beginners requires no prior programming experience, so let’s dive right in!
