@@ -1,1 +1,6 @@
+//print numbers
+print(60)
 
+//print text
+print("Welcome to the Code Playground")
+print("Coding is your new superpower")
